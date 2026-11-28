@@ -1,5 +1,7 @@
 <div align="center">
 
+![AirDeck banner: wireless control, your way. Use your phone as a PC game controller with a virtual Xbox 360 gamepad over Wi-Fi.](assets/banner.svg)
+
 # AirDeck for Android
 
 Turn your Android phone into a wireless PC game controller. Editable layouts, game rumble, tilt steering and custom response curves.
@@ -10,8 +12,6 @@ Turn your Android phone into a wireless PC game controller. Editable layouts, ga
 ![Last Commit](https://img.shields.io/github/last-commit/horse-3903/AirDeck-Mobile?style=flat-square)
 
 [Download](https://github.com/horse-3903/AirDeck-Mobile/releases) | [Try it in your browser](https://horse-3903.github.io/demos/airdeck-demo.html) | [AirDeck docs](https://github.com/horse-3903/AirDeck) | [PC server](https://github.com/horse-3903/AirDeck-PC)
-
-![AirDeck Android game controller layout with two analog sticks, D-pad, face buttons, triggers and a connection badge](assets/controller.png)
 
 </div>
 
